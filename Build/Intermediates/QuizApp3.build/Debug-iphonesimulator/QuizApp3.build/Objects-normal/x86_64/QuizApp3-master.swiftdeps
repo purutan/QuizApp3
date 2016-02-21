@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "a4a906ab1d11425486aba173abc2e845"
+build_time: [509370338, 770139000]
+inputs:
+  "/Users/y15fuji/Programming/TecAcademy/QuizApp3/QuizApp3/AppDelegate.swift": [509352602, 0]
+  "/Users/y15fuji/Programming/TecAcademy/QuizApp3/QuizApp3/ViewController.swift": [509370338, 0]
